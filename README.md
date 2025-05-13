@@ -9,8 +9,8 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - 🌏 Based in [Delhi,India].
 
 ## 📂 What I’m Working On
-- 🔭 Currently exploring [Add your current projects or areas of focus].
-- 🌱 Learning more about [Add topics/technologies you're learning].
+- 🔭 Currently exploring [Job or Internships].
+- 🌱 Learning more about [Machine Learning and DSA ].
 
 ## 💡 Interests
 - 🤖 Data Analysis / Data Science / Data Mining
